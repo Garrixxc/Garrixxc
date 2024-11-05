@@ -26,7 +26,7 @@ Proficient in SQL, Tableau, Power BI, and Python, with experience transforming d
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/jobs/?src=go-pa&trk=sem-ga_campid.18853522261_asid.146084015209_crid.633923221414_kw.linkedin_d.c_tid.kwd-296170574619_n.g_mt.e_geo.9031086&mcid=6994434350142418944&cid=&gad_source=1&gclid=cj0kcqjwlig2bhc4arisadbgpvqunuq9gv0ljwuw6zolq427c_oshnfjsb8mfzaddypc1rdvdp8c5kiaaghvealw_wcb&gclsrc=aw.ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/jobs/?src=go-pa&trk=sem-ga_campid.18853522261_asid.146084015209_crid.633923221414_kw.linkedin_d.c_tid.kwd-296170574619_n.g_mt.e_geo.9031086&mcid=6994434350142418944&cid=&gad_source=1&gclid=cj0kcqjwlig2bhc4arisadbgpvqunuq9gv0ljwuw6zolq427c_oshnfjsb8mfzaddypc1rdvdp8c5kiaaghvealw_wcb&gclsrc=aw.ds" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/gaurav2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/gaurav2/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/gaurav2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/gaurav2/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
