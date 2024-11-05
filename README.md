@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/Garrixxc/Garrixxc/output/snake.svg" alt="Snake animation" />
 
-###
 
 <h1 align="center">Hi 👋, I'm Gaurav Salvi</h1>
 <h3 align="center">Data-driven Information Systems graduate skilled in data analytics, business intelligence, and statistical analysis. 
