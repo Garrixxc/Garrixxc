@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gaurav Salvi</h1>
-<h3 align="center">Data-driven Information Systems graduate skilled in data analytics, business intelligence, and statistical analysis. Proficient in SQL, Tableau, Power BI, and Python, with experience transforming data into actionable insights through interactive dashboards and optimized ETL pipelines. Known for a strong analytical mindset and a commitment to leveraging data for strategic decision-making and business growth.</h3>
+<h3 align="center">Data-driven Information Systems graduate skilled in data analytics, business intelligence, and statistical analysis. 
+
+(img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif")
+
+Proficient in SQL, Tableau, Power BI, and Python, with experience transforming data into actionable insights through interactive dashboards and optimized ETL pipelines. Known for a strong analytical mindset and a commitment to leveraging data for strategic decision-making and business growth.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garrixxc&label=Profile%20views&color=0e75b6&style=flat" alt="garrixxc" /> </p>
 
