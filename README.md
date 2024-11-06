@@ -2,12 +2,12 @@
 ![MasterHead](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 <h1 align="center">Hi 👋, I'm Gaurav Salvi</h1>
 
-<h3 align="center">Data-driven Information Systems graduate skilled in data analytics, business intelligence, and statistical analysis. 
+<h2 align="center">Data-driven Information Systems graduate skilled in data analytics, business intelligence, and statistical analysis. </h2>
 
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-A passionate data enthusiast who balances creativity and logic to uncover insights, solve complex problems, and drive data-driven decisions while diving into web development as a hobby.</h3>
+<h5>A passionate data enthusiast who balances creativity and logic to uncover insights, solve complex problems, and drive data-driven decisions while diving into web development as a hobby.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garrixxc&label=Profile%20views&color=0e75b6&style=flat" alt="garrixxc" /> </p>
 
