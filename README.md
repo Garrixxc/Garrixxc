@@ -36,3 +36,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garrixxc&show_icons=true&locale=en" alt="garrixxc" /></p>
 
+## 💡 Support
+
+If you find my repositories helpful, consider supporting my work with a coffee! ☕ [Buy me a coffee](https://buymeacoffee.com/gaurav1).
+
