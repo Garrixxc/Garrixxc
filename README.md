@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **gaurav.salvi411@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://www.dropbox.com/scl/fi/g4uztrf9lat4oibt0gixf/GauravSalviResume.pdf?rlkey=qk0yjls6f3emcnlsdp2rpncps&st=exyeyknk&dl=0)
+- 📄 Know about my experiences [Resume](https://www.dropbox.com/scl/fi/nf5mtrcreyu4sobsql7hy/GauravSalviDataResume.pdf?rlkey=myndxlwg7jpv7suw81hqnyko0&st=3etc51pm&dl=0)
 
 - ⚡ Fun fact **I am a fan of gaming and travelling.**
 
